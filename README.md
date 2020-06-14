@@ -4,3 +4,8 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til]
 
 ---
 
+TI BASIC READY
+	>█
+
+---
+
